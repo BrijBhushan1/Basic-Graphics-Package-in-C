@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1454438615 source:d:\cs341\mygraphics\mygraphics.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"mygraphics.h"
+
+1266130214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1454107558 d:\cs341\mygraphics\mygraphics.h
+
+1454107757 source:d:\cs341\mygraphics\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	"mygraphics.h"
+
